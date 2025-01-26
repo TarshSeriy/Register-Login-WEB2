@@ -30,3 +30,9 @@ This project implements a simple user authentication system using **Express** (N
 ```bash
 git clone https://github.com/your-username/user-authentication-system.git
 cd user-authentication-system
+
+
+### 2. Install dependencies
+```bash
+npm install
+
