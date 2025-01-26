@@ -33,6 +33,5 @@ cd user-authentication-system
 
 
 ### 2. Install dependencies
-```bash
-npm install
+code npm install
 
