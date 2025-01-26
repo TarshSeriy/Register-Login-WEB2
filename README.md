@@ -32,8 +32,8 @@ cd user-authentication-system
 
 ### 2. Install Dependencies
 
-```bash npm install
-```
+``` npm install ```
+
 
 ### 3. Set up environment variables
 
@@ -42,8 +42,8 @@ JWT_SECRET=your_jwt_secret_key
 
 ### 4. Run the application
 
-```bash node server.js
-```
+``` node server.js```
+
 ### 5. Access the aplication
 You can access the application in your browser:
 
