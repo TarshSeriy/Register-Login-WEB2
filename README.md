@@ -52,7 +52,17 @@ Login page: http://localhost:3000/login.html
 
 
 ## Project Structure
-```. ├── public/ │ ├── register.html # Registration form │ ├── login.html # Login form │ └── styles.css # CSS for the frontend ├── .env # Environment variables ├── node_modules/ # Installed Node modules ├── server.js # Main server file ├── package.json # Project dependencies and scripts └── README.md # Project documentation```
+```.
+├── public/
+│   ├── register.html        # Registration form
+│   ├── login.html           # Login form
+│   └── styles.css           # CSS for the frontend
+├── .env                     # Environment variables
+├── node_modules/             # Installed Node modules
+├── server.js                 # Main server file
+├── package.json              # Project dependencies and scripts
+└── README.md                 # Project documentation
+```
 ## How It Works
 User Registration: The registration page collects a username, email, and password from the user. The password is hashed using bcrypt, and the user is stored in the MongoDB database.
 
