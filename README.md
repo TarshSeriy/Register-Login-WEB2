@@ -31,7 +31,4 @@ This project implements a simple user authentication system using **Express** (N
 git clone https://github.com/your-username/user-authentication-system.git
 cd user-authentication-system
 
-
-### 2. Install dependencies
-code npm install
-
+### 2. Install Dependecies 
